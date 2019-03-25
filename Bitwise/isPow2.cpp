@@ -13,3 +13,4 @@ int main(){
     cout<<isPow2(a)<<endl;
     return 0;
 }
+

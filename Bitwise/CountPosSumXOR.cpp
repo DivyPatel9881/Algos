@@ -23,3 +23,4 @@ int main(){
     cout<<CountPos(n)<<endl;
     return 0;
 }
+
