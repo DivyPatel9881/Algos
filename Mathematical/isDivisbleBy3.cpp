@@ -15,3 +15,4 @@ int main(){
     cout<<isDivisibleBy3(str)<<endl;
     return 0;
 }
+\
